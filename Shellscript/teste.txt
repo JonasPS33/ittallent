@@ -1,0 +1,7 @@
+devops
+automação
+cultura
+ci/cd
+linux
+AWS
+GO
